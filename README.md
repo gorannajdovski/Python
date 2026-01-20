@@ -7,9 +7,8 @@
 
 - 📫 How to reach me **nizvodno@gmail.com**
 
-- ⚡ Fun fact **IT is a Funny World.**
+- ⚡ Fun fact: **IT is a Funny World.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
